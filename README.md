@@ -1,5 +1,3 @@
-# CSC207 Fall 2020
-
 ## Assignment 0: Java/Git Warmup - Instructions
 
 ### Before you start
